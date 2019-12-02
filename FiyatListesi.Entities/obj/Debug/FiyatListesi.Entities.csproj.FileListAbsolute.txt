@@ -1,0 +1,12 @@
+C:\Users\Lenovo\source\repos\FiyatListesi\FiyatListesi.Entities\bin\Debug\FiyatListesi.Entities.dll
+C:\Users\Lenovo\source\repos\FiyatListesi\FiyatListesi.Entities\bin\Debug\FiyatListesi.Entities.pdb
+C:\Users\Lenovo\source\repos\FiyatListesi\FiyatListesi.Entities\obj\Debug\FiyatListesi.Entities.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\FiyatListesi\FiyatListesi.Entities\obj\Debug\FiyatListesi.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\FiyatListesi\FiyatListesi.Entities\obj\Debug\FiyatListesi.Entities.dll
+C:\Users\Lenovo\source\repos\FiyatListesi\FiyatListesi.Entities\obj\Debug\FiyatListesi.Entities.pdb
+C:\Users\Lenovo\source\repos\FiyatListesi\FiyatListesi.Entities\bin\Debug\FiyatListesi.Entities.dll.config
+C:\Users\Lenovo\source\repos\FiyatListesi\FiyatListesi.Entities\bin\Debug\EntityFramework.dll
+C:\Users\Lenovo\source\repos\FiyatListesi\FiyatListesi.Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Lenovo\source\repos\FiyatListesi\FiyatListesi.Entities\bin\Debug\EntityFramework.xml
+C:\Users\Lenovo\source\repos\FiyatListesi\FiyatListesi.Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Lenovo\source\repos\FiyatListesi\FiyatListesi.Entities\obj\Debug\FiyatListesi.Entities.csproj.CopyComplete

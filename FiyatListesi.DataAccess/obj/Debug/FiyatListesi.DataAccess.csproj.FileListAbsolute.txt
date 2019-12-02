@@ -1,0 +1,15 @@
+C:\Users\Lenovo\source\repos\FiyatListesi\FiyatListesi.DataAccess\bin\Debug\FiyatListesi.DataAccess.dll.config
+C:\Users\Lenovo\source\repos\FiyatListesi\FiyatListesi.DataAccess\bin\Debug\FiyatListesi.DataAccess.dll
+C:\Users\Lenovo\source\repos\FiyatListesi\FiyatListesi.DataAccess\bin\Debug\FiyatListesi.DataAccess.pdb
+C:\Users\Lenovo\source\repos\FiyatListesi\FiyatListesi.DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\Lenovo\source\repos\FiyatListesi\FiyatListesi.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Lenovo\source\repos\FiyatListesi\FiyatListesi.DataAccess\bin\Debug\FiyatListesi.Entities.dll
+C:\Users\Lenovo\source\repos\FiyatListesi\FiyatListesi.DataAccess\bin\Debug\FiyatListesi.Entities.pdb
+C:\Users\Lenovo\source\repos\FiyatListesi\FiyatListesi.DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\Lenovo\source\repos\FiyatListesi\FiyatListesi.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Lenovo\source\repos\FiyatListesi\FiyatListesi.DataAccess\obj\Debug\FiyatListesi.DataAccess.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\FiyatListesi\FiyatListesi.DataAccess\obj\Debug\FiyatListesi.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\FiyatListesi\FiyatListesi.DataAccess\obj\Debug\FiyatListesi.DataAccess.csproj.CopyComplete
+C:\Users\Lenovo\source\repos\FiyatListesi\FiyatListesi.DataAccess\obj\Debug\FiyatListesi.DataAccess.dll
+C:\Users\Lenovo\source\repos\FiyatListesi\FiyatListesi.DataAccess\obj\Debug\FiyatListesi.DataAccess.pdb
+C:\Users\Lenovo\source\repos\FiyatListesi\FiyatListesi.DataAccess\bin\Debug\FiyatListesi.Entities.dll.config
